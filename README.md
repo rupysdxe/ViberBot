@@ -2,11 +2,12 @@
 This was a small Viber BOT project implemented in Python with the Flask framework to make webhooks 
 that can be called by the Viber server if users interacted with Viber bot.
 
-<h1>Tech :</h1>
+<h4>Tech :</h4>
 1. MySQL 
 2. Python - Flask
 
-Features:
+
+<h4>Features:</h4>
 
 1. Can send multiple messages to all Viber users who have subscribed to the bot at once.
 
@@ -20,7 +21,7 @@ Features:
 Note: This was a small project, so I have not used best software development practices such as using modularization to avoid redundancy, and so on.
 
 
-Demo Images: 
+<h4>Demo Images: </h4>
 
 <a href="url"><img src="https://github.com/rupysdxe/ViberBot/blob/main/demo/IMG_0850.PNG" width="300" height="650"></a>
 <a href="url"><img src="https://github.com/rupysdxe/ViberBot/blob/main/demo/IMG_0851.PNG" width="300" height="650"></a>

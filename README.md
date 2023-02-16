@@ -18,4 +18,4 @@ Note: This was a small project, so I have not used best software development pra
 
 
 
-<a href="url"><img src=https://github.com/rupysdxe/ViberBot/blob/main/demo/IMG_0850.PNG" width="48"></a>
+<a href="url"><img src="https://github.com/rupysdxe/ViberBot/blob/main/demo/IMG_0850.PNG" width="48"></a>

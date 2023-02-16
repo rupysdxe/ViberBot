@@ -2,7 +2,7 @@
 This was a small Viber BOT project implemented in Python with the Flask framework to make webhooks 
 that can be called by the Viber server if users interacted with Viber bot.
 
-Tech :
+<h1>Tech :</h1>
 1. MySQL 
 2. Python - Flask
 

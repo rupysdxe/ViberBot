@@ -12,3 +12,6 @@ Features:
 3. Messages sent to Viber Bot from users are routed directly to the ADMIN Viber account.
 
 4. Event information, such as unsubscriptions, subscriptions, and messages sent to BOT, is directly sent to Admin  Viber account.
+
+
+Note: This was a small project, so I have not used best software development practices such as using modularization to avoid redundancy, and so on.

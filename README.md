@@ -2,6 +2,9 @@
 This was a small Viber BOT project implemented in Python with the Flask framework to make webhooks 
 that can be called by the Viber server if users interacted with Viber bot.
 
+Tech :
+1. MySQL 
+2. Python - Flask
 
 Features:
 
@@ -17,8 +20,9 @@ Features:
 Note: This was a small project, so I have not used best software development practices such as using modularization to avoid redundancy, and so on.
 
 
+Demo Images: 
 
-<a href="url"><img src="https://github.com/rupysdxe/ViberBot/blob/main/demo/IMG_0850.PNG" width="400" height="750"></a>
-<a href="url"><img src="https://github.com/rupysdxe/ViberBot/blob/main/demo/IMG_0851.PNG" width="400" height="750"></a>
-<a href="url"><img src="https://github.com/rupysdxe/ViberBot/blob/main/demo/IMG_0852.PNG" width="400" height="750"></a>
-<a href="url"><img src="https://github.com/rupysdxe/ViberBot/blob/main/demo/IMG_0853.PNG" width="400" height="750"></a>
+<a href="url"><img src="https://github.com/rupysdxe/ViberBot/blob/main/demo/IMG_0850.PNG" width="300" height="650"></a>
+<a href="url"><img src="https://github.com/rupysdxe/ViberBot/blob/main/demo/IMG_0851.PNG" width="300" height="650"></a>
+<a href="url"><img src="https://github.com/rupysdxe/ViberBot/blob/main/demo/IMG_0852.PNG" width="300" height="650"></a>
+<a href="url"><img src="https://github.com/rupysdxe/ViberBot/blob/main/demo/IMG_0853.PNG" width="300" height="650"></a>
